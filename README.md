@@ -19,6 +19,9 @@ It takes into account corner registration marks (each corner can have its own si
 - Result: sticker count, grid (columns × rows), rotation, sheet usage in percent
 - Accepts decimal numbers; a comma instead of a dot works too
 
+Screenshot
+![GridPrint](Screenshot_1.png)
+
 
 ## How it works
 
@@ -109,6 +112,7 @@ Choose a license (for example, MIT) and add a `LICENSE` file.
 - Результат: количество наклеек, сетка (столбцы × ряды), поворот, процент использования листа
 - Принимает дробные числа, запятая вместо точки тоже работает
 
+![GridPrint](Screenshot_1.png)
 
 ## Как это работает
 
